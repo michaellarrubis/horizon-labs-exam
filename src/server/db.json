@@ -1,0 +1,23 @@
+{
+  "parking-subscriptions": [
+    {
+      "payload": {
+        "name": "Dela Cruz",
+        "description": "White Brio Amaze",
+        "type": "2",
+        "status": "active"
+      },
+      "id": 1
+    },
+    {
+      "payload": {
+        "name": "Carlos Magsaysay",
+        "description": "Black Corvette",
+        "type": "4",
+        "status": "inactive",
+        "id": 2
+      },
+      "id": 2
+    }
+  ]
+}
